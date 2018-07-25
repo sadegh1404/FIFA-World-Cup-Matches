@@ -23,6 +23,5 @@ This project was provided to answer some question about world cup matches from 1
 
 > What are the most viewed matches? 
 
-![mostviewd](https://user-images.githubusercontent.com/28765557/43043350-4cc72732-8da7-11e8-9a56-59becf08389a.png)
-
+![new_bar](https://user-images.githubusercontent.com/28765557/43217798-d42f543a-9057-11e8-813f-4c0dbe328b45.png)
 
