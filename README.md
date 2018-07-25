@@ -25,3 +25,7 @@ This project was provided to answer some question about world cup matches from 1
 
 ![new_bar](https://user-images.githubusercontent.com/28765557/43217798-d42f543a-9057-11e8-813f-4c0dbe328b45.png)
 
+
+> Goals scored for each team
+
+![goalsforteams](https://user-images.githubusercontent.com/28765557/43220261-d9fa7672-905e-11e8-9db6-5a657265fd2b.png)
